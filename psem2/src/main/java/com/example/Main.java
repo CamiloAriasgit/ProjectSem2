@@ -1,5 +1,7 @@
 package com.example;
 
+//trabajo semana 2
+
 public class Main {
     public static void main(String[] args) {
         Jugador jugador1 = new Jugador("Pepe Guamo", 30, "defensa", 10, "las Máquinas");
